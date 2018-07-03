@@ -1,0 +1,5 @@
+# SISFOKOL_SMK_v2
+SISFOKOL_SMK_v2
+
+
+Sistem Informasi Sekolah, Berbasis Web dengan Php dan Mysql.
